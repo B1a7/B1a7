@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Błażej</h1>
-<h3 align="center">Young C# and .Net technology passionate</h3>
+<h3 align="center">Young passionate of C# and ASP.NET technology</h3>
 
 - 🔭 I’m currently working on [WMS System](https://github.com/B1a7/WMS.git)
 

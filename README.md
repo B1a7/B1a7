@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Błażej</h1>
 <h3 align="center">Young passionate of C# and ASP.NET technology</h3>
 
-- 🔭 I’m currently working on **Financial analysis of investmenapp and Trip Summary app**
+- 🔭 I’m currently working on **Financial analysis of investment app and Trip Summary app**
 
 - 🌱 I’m currently learning **Microservices and Azure Cloud Services**
 
